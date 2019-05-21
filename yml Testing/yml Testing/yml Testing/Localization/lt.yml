@@ -1,0 +1,12 @@
+﻿lt:
+    app_name: "yml Test"
+    buttons:
+        common:
+            cancel: "Atsaukti"
+            accept: "Patvirtinti"
+            ok: "Gerai"
+    label:
+        header:
+            company_name: "Imones pavadinimas"
+        body:
+            welcome: "Sveiki"
